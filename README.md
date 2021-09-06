@@ -6,6 +6,7 @@ This repository was created in order to submit the project about IMS(Inventory M
 
 In this project:
 In the Inventory management project.ipynb:
+        
         - At first I have written a code to create a json file for products to access with some initial values.
         
         - Then second part accessing the json file,In this i have added multiple feature to interact with the user in a proper manner.
