@@ -1,0 +1,27 @@
+{
+    "Date": "Mon Sep  6 20:24:13 2021",
+    "items": [
+        {
+            "pid": 10,
+            "name": "Eclairs Pack     ",
+            "rate": 250,
+            "quantity": 15,
+            "amount": 3375.0
+        },
+        {
+            "pid": 20,
+            "name": "Uncle Chips Small",
+            "rate": 10,
+            "quantity": 5,
+            "amount": 45.0
+        },
+        {
+            "pid": 30,
+            "name": "Limca 2l         ",
+            "rate": 80,
+            "quantity": 10,
+            "amount": 720.0
+        }
+    ],
+    "total": 4140.0
+}
